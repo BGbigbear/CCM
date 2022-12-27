@@ -23,4 +23,4 @@ HanLP(tokens=[
     ["我", "的", "希望", "是", "希望", "张晚霞", "的", "背影", "被", "晚霞", "映红", "。"]
   ], tasks='srl', skip_tasks='tok*').pretty_print()
 
-print(doc)
+
